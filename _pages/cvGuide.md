@@ -11,20 +11,9 @@ redirect_from:
 
 Education
 ======
-**University of California San Diego, La Jolla, California**
-* Ph. D. in Mechanical and Aerospace Engineering,  <div style="text-align: right"> 2021 -- Present </div>
-  * Advisor: Boris Kramer
-  * Specialization in Linear and Optimal Control
-  * GPA: N/A 
-
-**Virginia Tech, Blacksburg, Virginia**
-* M.S. in Engineering Mechanics, GPA: 3.92/4.00 2019 -- 2021
-  * Advisor: Pablo Tarazaga
-  * Thesis: *Dispersion curve estimation for longitudinal rail stress measurement*
-  * GPA: 3.92
-* B.S. in Engineering Science and Mechanics, GPA: 3.93/4.00 2015 -- 2019
-  * Minor in Mathematics
-  * GPA: 3.94
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
