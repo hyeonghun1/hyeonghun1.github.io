@@ -6,6 +6,8 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+header:
+  teaser: "unsplash-gallery-image-2-th.jpg"
 ---
 
 ![](/images/giesel.jpg)

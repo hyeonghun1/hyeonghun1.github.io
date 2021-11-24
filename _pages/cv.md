@@ -160,7 +160,7 @@ Extracurricular Activities
 * Honors Residential College at Virginia Tech 2015 - 2019
   Held Apartment Fellow leadership role in the HRC Honors community at Virginia Tech.
 * Jazz Guitar 2007 - Present
-  Study and occasionally perform jazz music in my free-time.
+  Study and occasionally perform jazz music in my frgiee-time.
 
 <!-- % \vspace*{\fill}
 \section{References}
