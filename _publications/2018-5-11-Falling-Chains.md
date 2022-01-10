@@ -13,4 +13,4 @@ This paper is about a phenomenon in which a falling chain impacting a surface ac
 
 [Download paper here](https://arxiv.org/abs/1712.05778)
 
-Recommended citation: Corbin, N. A., Hanna, J. A., Royston, W. R., Singh, H., Warner, R. B., “Impact-induced acceleration by obstacles”, <i>New Journal of Physics<i>, vol. 20, no. 5, p. 053031, May 2018, issn: 1367-2630.
+Recommended citation: Corbin, N. A., Hanna, J. A., Royston, W. R., Singh, H., Warner, R. B., “Impact-induced acceleration by obstacles”, <i>New Journal of Physics</i>, vol. 20, no. 5, p. 053031, May 2018, issn: 1367-2630.

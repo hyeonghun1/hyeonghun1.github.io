@@ -13,4 +13,4 @@ This paper is about the stability of linked conical frusta, i.e. bendy straws. W
 
 [Download paper here](https://doi.org/10.1039/C8SM01355A)
 
-Recommended citation: Bende, N. P., Yu, T., Corbin, N. A., Dias, M. A., Santangelo, C. D., Hanna, J. A., Hayward, R. C., “Overcurvature induced multistability of linked conical frusta: How a ‘bendy straw’ holds its shape”, <i>Soft Matter<i>, vol. 14, no. 42, pp. 8636–8642, 2018, issn: 1744-683X.
+Recommended citation: Bende, N. P., Yu, T., Corbin, N. A., Dias, M. A., Santangelo, C. D., Hanna, J. A., Hayward, R. C., “Overcurvature induced multistability of linked conical frusta: How a ‘bendy straw’ holds its shape”, <i>Soft Matter</i>, vol. 14, no. 42, pp. 8636–8642, 2018, issn: 1744-683X.
