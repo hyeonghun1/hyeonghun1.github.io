@@ -12,17 +12,17 @@ redirect_from:
 Education
 ======
 **University of California San Diego, La Jolla, California**
-* Ph. D. in Mechanical and Aerospace Engineering,  <div style="text-align: right"> 2021 — Present </div>
+* Ph. D. in Mechanical and Aerospace Engineering,  <p style="text-align: right"> 2021 — Present </p>
   * Advisor: Boris Kramer
   * Specialization in Linear and Optimal Control
-  * GPA: N/A 
+  * GPA: 3.85
 
 **Virginia Tech, Blacksburg, Virginia**
-* M.S. in Engineering Mechanics, <div style="text-align: right"> 2019 — 2021 </div>
+* M.S. in Engineering Mechanics, <p style="text-align: right"> 2019 — 2021 </p>
   * Advisor: Pablo Tarazaga
   * Thesis: *Dispersion curve estimation for longitudinal rail stress measurement*
   * GPA: 3.92
-* B.S. in Engineering Science and Mechanics, <div style="text-align: right"> 2015 — 2019 </div>
+* B.S. in Engineering Science and Mechanics, <p style="text-align: right"> 2015 — 2019 </p>
   * Minor in Mathematics
   * GPA: 3.93
 
@@ -60,9 +60,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
-Teaching
-======
-* Graduate Teaching Assistant at Virginia Tech Summer 2019 Dynamics I (ESM 2304)
+<!-- Teaching -->
+<!-- ====== -->
+<!-- * Graduate Teaching Assistant at Virginia Tech Summer 2019 Dynamics I (ESM 2304) -->
 
 Teaching
 ======
@@ -123,23 +123,23 @@ Mentorship and Outreach
 **{Virginia Tech ESM senior design advisor** Blacksburg, VA
 *Team sponsor/advisor* August 2020 - May 2021
 
-	* Sponsoring and mentoring a senior design team through UpStream Services LLC startup to develop innovative waste-measurement device. 
+* Sponsoring and mentoring a senior design team through UpStream Services LLC startup to develop innovative waste-measurement device. 
 
 **VAST undergraduate research mentor** Blacksburg, VA
 *Student mentor* September 2019 - January 2020
 
-	* Helped mentor undergraduate researchers in the VAST lab under Dr. Tarazaga. Guided and worked with Kam Mize to develop alternative approach to projection methods for component testing, resulting in SAVE conference presentation. Guided Tyler Pugh in design and fabrication of a rotating unbalance device for de-icing of outdoor netted structure.
+* Helped mentor undergraduate researchers in the VAST lab under Dr. Tarazaga. Guided and worked with Kam Mize to develop alternative approach to projection methods for component testing, resulting in SAVE conference presentation. Guided Tyler Pugh in design and fabrication of a rotating unbalance device for de-icing of outdoor netted structure.
 
 
 **Rocketry outreach** New River Valley, VA
 *Floyd Elementary School Outreach* February 2019
 
-	* Helped organize and run a day-long outreach event with Floyd Elementary School to expose 251 students (grades 1-5) to STEM and rocketry. Educated students with a short lesson relating their science class topics to rocketry, and subsequently helped students design and build their own ``bubble rockets'' powered by effervescent tablets as detailed in NASA's ``Build a Bubble-Powered Rocket'' lesson plan. 
+* Helped organize and run a day-long outreach event with Floyd Elementary School to expose 251 students (grades 1-5) to STEM and rocketry. Educated students with a short lesson relating their science class topics to rocketry, and subsequently helped students design and build their own ``bubble rockets'' powered by effervescent tablets as detailed in NASA's ``Build a Bubble-Powered Rocket'' lesson plan. 
 
 
 *Blacksburg High School FlatSat Project* January 2018 – August 2018
 
-	* Mentored and worked with three student teams at Blacksburg High School to ideate, design, build, and test three deployable experiments to launch on our RockSat-X payload platform to space from NASA Wallops. The Virginia Tech team, under my leadership, designed and built a deployment, power, and telemetry platform for small, PCB-based deployable experiments. We then partnered with Blacksburg High School to have students build the experiments of their choice, which ultimately were 1) a reaction-control experiment to try to control the positioning of the deployables, 2) a Geiger counter to measure radiation in the thermosphere, and 3) a spectrometry experiment to measure the makeup of the thermosphere.
+* Mentored and worked with three student teams at Blacksburg High School to ideate, design, build, and test three deployable experiments to launch on our RockSat-X payload platform to space from NASA Wallops. The Virginia Tech team, under my leadership, designed and built a deployment, power, and telemetry platform for small, PCB-based deployable experiments. We then partnered with Blacksburg High School to have students build the experiments of their choice, which ultimately were 1) a reaction-control experiment to try to control the positioning of the deployables, 2) a Geiger counter to measure radiation in the thermosphere, and 3) a spectrometry experiment to measure the makeup of the thermosphere.
 
 Fellowships and Awards
 ======
