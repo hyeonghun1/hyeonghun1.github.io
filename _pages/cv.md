@@ -17,6 +17,8 @@ Education
   * Specialization in Linear and Optimal Control
   * GPA: 3.85
 
+Ph. D. in Mechanical and Aerospace Engineering, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2021 — Present 
+
 **Virginia Tech, Blacksburg, Virginia**
 * M.S. in Engineering Mechanics, <p style="text-align: right"> 2019 — 2021 </p>
   * Advisor: Pablo Tarazaga
