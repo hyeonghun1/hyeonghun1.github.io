@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 2"
+title: "Overcurvature induced multistability of linked conical frusta: How a ‘bendy straw’ holds its shape"
 collection: publications
-permalink: /publication/2018-Bendy-Straws
+permalink: /publication/2018-10-18-Bendy-Straws
 excerpt: 'This paper is about the stability of linked conical frusta, i.e. bendy straws. We investigate the effects of material, geometry, and prestress on the stability of such structures.'
 date: 2018-10-18
 venue: 'Soft Matter'

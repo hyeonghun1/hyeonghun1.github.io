@@ -1,7 +1,7 @@
 ---
 title: "Impact-induced acceleration by obstacles"
 collection: publications
-permalink: /publication/2018-Falling-Chains
+permalink: /publication/2018-5-11-Falling-Chains
 excerpt: 'This paper is about a phenomenon in which a falling chain impacting a surface accelerates faster than gravitational acceleration. The paper gives experimental results confirming the effect and a mathematical model which captures the behavior.'
 date: 2018-5-11
 venue: 'New Journal of Physics'
