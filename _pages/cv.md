@@ -50,9 +50,9 @@ Research and Work Experience
   
 Publications
 ======
-  <u>{% for post in site.publications %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</u>
+  {% endfor %}</ul>
   
 Talks
 ======
