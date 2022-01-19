@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Download a PDF copy of my CV: ](https://github.com/cnick1/CV/raw/master/main.pdf)
+[PDF copy of my CV](https://github.com/cnick1/CV/raw/master/main.pdf)
 
-=========
+
 Education
 ======
 **University of California San Diego, La Jolla, California**
