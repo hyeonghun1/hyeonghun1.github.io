@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+[Download a PDF copy of my CV: ](https://github.com/cnick1/CV/raw/master/main.pdf)
+
+=========
 Education
 ======
 **University of California San Diego, La Jolla, California**
@@ -120,7 +123,7 @@ Entrepreneurship
 
 Mentorship and Outreach
 ======
-**{Virginia Tech ESM senior design advisor** Blacksburg, VA
+**Virginia Tech ESM senior design advisor** Blacksburg, VA
 *Team sponsor/advisor* August 2020 - May 2021
 
 * Sponsoring and mentoring a senior design team through UpStream Services LLC startup to develop innovative waste-measurement device. 
@@ -134,7 +137,7 @@ Mentorship and Outreach
 **Rocketry outreach** New River Valley, VA
 *Floyd Elementary School Outreach* February 2019
 
-* Helped organize and run a day-long outreach event with Floyd Elementary School to expose 251 students (grades 1-5) to STEM and rocketry. Educated students with a short lesson relating their science class topics to rocketry, and subsequently helped students design and build their own ``bubble rockets'' powered by effervescent tablets as detailed in NASA's ``Build a Bubble-Powered Rocket'' lesson plan. 
+* Helped organize and run a day-long outreach event with Floyd Elementary School to expose 251 students (grades 1-5) to STEM and rocketry. Educated students with a short lesson relating their science class topics to rocketry, and subsequently helped students design and build their own "bubble rockets" powered by effervescent tablets as detailed in NASA's "Build a Bubble-Powered Rocket" lesson plan. 
 
 
 *Blacksburg High School FlatSat Project* January 2018 – August 2018
@@ -147,20 +150,20 @@ Fellowships and Awards
   This award is given to outstanding doctoral students in UCSD's Jacobs School of Engineering. 
 
 * **Liviu Librescu Memorial Fellowship** 2020 
-  This award is given to Virginia Tech Engineering Mechanics graduate students with outstanding academic records \\and who have demonstrated strong leadership potential and commitment to professional or community service.
+  This award is given to Virginia Tech Engineering Mechanics graduate students with outstanding academic records and who have demonstrated strong leadership potential and commitment to professional or community service.
 
 * **NSF GRFP Honorable Mention** 2020
   This award is given to meritorious applicants who do not receive GRFP Fellowship awards, and is considered a significant national academic achievement and provides access to cyberinfrastructure resources through the XSEDE.
 
 * **James H. Sword Award** 2019
-  This award is given to Virginia Tech Engineering Science and Mechanics students in recognition of an \\Outstanding Senior Project.
+  This award is given to Virginia Tech Engineering Science and Mechanics students in recognition of an Outstanding Senior Project.
 
 Extracurricular Activities
 ======
 * Honors Residential College at Virginia Tech 2015 - 2019
   Held Apartment Fellow leadership role in the HRC Honors community at Virginia Tech.
 * Jazz Guitar 2007 - Present
-  Study and occasionally perform jazz music in my frgiee-time.
+  Study and occasionally perform jazz music in my free-time.
 
 <!-- % \vspace*{\fill}
 \section{References}
