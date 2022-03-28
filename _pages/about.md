@@ -29,6 +29,8 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
+**March 2022:** I just returned from attending the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/) at the beautiful island of Fraueninsel (Chiemsee), Germany. It was a wonderful opportunity to learn about port-Hamiltonian systems, and I met a lot of wonderful colleagues whom I hope to see again in the near future! 
+
 **January 2022:** I've been accepted to the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/), which I am excited to attend. The workshop will take place March 20-25 in Fraueninsel (Chiemsee), Germany.
 
 **September 2021:** I've moved from Virginia Tech to San Diego to pursue a PhD in Mechanical and Aerospace Engineering at UCSD with Prof. Boris Kramer. 
