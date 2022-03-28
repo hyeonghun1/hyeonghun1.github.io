@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 [PDF copy of my CV](https://github.com/cnick1/CV/raw/master/main.pdf)
-<embed src="https://github.com/cnick1/CV/raw/master/main.pdf" width="600px" height="500px" />
+<!-- <embed src="https://github.com/cnick1/CV/raw/master/main.pdf" width="600px" height="500px" /> -->
 
 
 Education
