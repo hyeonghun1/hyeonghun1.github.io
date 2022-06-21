@@ -9,10 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF copy of my CV](https://github.com/cnick1/CV/raw/master/main.pdf)
 <!-- <embed src="https://github.com/cnick1/CV/raw/master/main.pdf" width="600px" height="500px" /> -->
-<iframe src="https://docs.google.com/gview?url=https://github.com/cnick1/CV/raw/master/main.pdf&embedded=true" style="width:100%;height:100%;" frameborder="0"></iframe>
+<iframe src="https://docs.google.com/gview?url=https://github.com/cnick1/CV/raw/master/main.pdf&embedded=true" style="width:100%;height:1100px;" frameborder="0"></iframe>
 
+[PDF copy of my CV](https://github.com/cnick1/CV/raw/master/main.pdf)
+
+<!-- 
 Education
 ======
 **University of California San Diego, La Jolla, California**
@@ -28,8 +30,8 @@ Education
   * GPA: 3.92
 * B.S. in Engineering Science and Mechanics, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2015 — 2019 
   * Minor in Mathematics
-  * GPA: 3.93
-
+  * GPA: 3.93 -->
+<!-- 
 Research and Work Experience
 ======
 
@@ -51,13 +53,15 @@ Research and Work Experience
 * Undergraduate Research Assistant &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; January 2016 - August 2018
 * Advisor: Dr. James Hanna
     * Ran experiments using tools including high speed imagery, particle image velocimetry, 3D-printing, and processed data using Matlab, Mathematica, and FFMPEG.
-  
+   -->
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -68,12 +72,14 @@ Talks
 <!-- ====== -->
 <!-- * Graduate Teaching Assistant at Virginia Tech Summer 2019 Dynamics I (ESM 2304) -->
 
+
+<!-- 
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
+  {% endfor %}</ul> -->
+<!-- 
 Relevant Coursework
 ======
 * Nonlinear Dynamics and Chaos
@@ -87,14 +93,14 @@ Relevant Coursework
 * Intro to Continuum Mechanics
 * Intro to Perturbation Methods
 * Math. Analysis for Applications
-
-
+ -->
+<!-- 
 Computer Skills
 ======
 **Coding languages:** Matlab, Mathematica, Python, Bash, LaTeX
 **Finite Element Analysis (FEA):** Abaqus
-**Computer-aided Design (CAD):** Solidworks, Inventor
-
+**Computer-aided Design (CAD):** Solidworks, Inventor --> -->
+<!-- 
 Hands-on Skills
 ======
 **Vibration Testing:** Siemens LMS, Polytec
@@ -102,8 +108,8 @@ Hands-on Skills
 **Certification:**  National Association of Rocketry (NAR) Level 1 High Power Rocketry certified
 **Languages:**  English, Italian
 
-  
-Design Team Experience
+   -->
+<!-- Design Team Experience
 ======
 **ESM Rocketry Senior Design,** NASA USLI 2019 Blacksburg, VA
 *Payload Subteam Lead and Document Editor* January 2018 - May 2019
@@ -114,14 +120,14 @@ Design Team Experience
 * Led team of 15 in the design and manufacturing of a 15-pound sounding rocket payload for launch with apogee of 90 miles from NASA Wallops Flight Facility in August each year.
 * Flat-sat platform: developed deployment, power, and telemetry platform for ejecting several PCB-based experiments from the sounding rocket.
 *Mechanical Subteam Lead* September 2016 – August 2017
-* Software-defined radio (SDR): demonstrated capabilities of SDR in space applications by tracking boats and planes, transmitting data to two ground stations, and receiving commands from the ground.
-
+* Software-defined radio (SDR): demonstrated capabilities of SDR in space applications by tracking boats and planes, transmitting data to two ground stations, and receiving commands from the ground. -->
+<!-- 
 Entrepreneurship
 ======
 **UpStream Services LLC** Reston, VA
 *Startup Co-founder* January 2020 - Present
-* Startup innovating in waste management, last-mile delivery, ecommerce, and green technologies. 
-
+* Startup innovating in waste management, last-mile delivery, ecommerce, and green technologies.  -->
+<!-- 
 Mentorship and Outreach
 ======
 **Virginia Tech ESM senior design advisor** Blacksburg, VA
@@ -183,5 +189,4 @@ Contact information for the professors whom I have asked to write recommendation
 \entrymid[\textbullet]
 {\textbf{Dr. Shane Ross}, Professor at Virginia Tech, Aerospace Engineering}{sdross@vt.edu}{Mentor}
 } -->
-
 
