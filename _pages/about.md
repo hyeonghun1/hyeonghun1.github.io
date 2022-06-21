@@ -29,15 +29,21 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
-**June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE), so I am excited to start my research for the summer. But first, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
+**June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE). Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/) and my committee members Prof. Patricia Hidalgo-Gonzalez and Prof. Jorge Cortes. In the coming weeks, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
 
 **March 2022:** I just returned from attending the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/) at the beautiful island of Fraueninsel (Chiemsee), Germany. It was a wonderful opportunity to learn about port-Hamiltonian systems, and I met a lot of wonderful colleagues whom I hope to see again in the near future! 
 
-**January 2022:** I've been accepted to the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/), which I am excited to attend. The workshop will take place March 20-25 in Fraueninsel (Chiemsee), Germany.
+![](/images/abbey.jpg)
+
+**January 2022:** I've been accepted to the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/), which I am excited to attend. The workshop will take place March 20-25 in Fraueninsel (Chiemsee), Germany (pictured below).
+
+![](/images/fraueninsel.jpg)
 
 **September 2021:** I've moved from Virginia Tech to San Diego to pursue a PhD in Mechanical and Aerospace Engineering at UCSD with Prof. Boris Kramer. 
 
 **July 2021:** I completed my master's thesis defense! Many thanks to my advisor [Prof. Pablo Tarazaga](https://engineering.tamu.edu/mechanical/profiles/tarazaga-pablo.html) and my committee members Prof. Shane Ross and Prof. John Domann.
+
+![](/images/burruss.jpg)
 
 **February 2020:** I will be giving a talk at the 38th International Modal Analysis Conference, in Houston, Texas. In my presentation, I will share some results from finite element simulations I have been using to study low-frequency wave propagation in rails for measuring stress non-destructively.
 
