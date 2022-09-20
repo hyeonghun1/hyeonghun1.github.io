@@ -29,7 +29,7 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
-**June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE). Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/) and my committee members Prof. Patricia Hidalgo-Gonzalez and Prof. Jorge Cortes. In the coming weeks, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
+**June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE). Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/) and my committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Jorge Cortes](http://terrano.ucsd.edu/jorge/). In the coming weeks, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
 
 **March 2022:** I just returned from attending the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/) at the beautiful island of Fraueninsel (Chiemsee), Germany. It was a wonderful opportunity to learn about port-Hamiltonian systems, and I met a lot of wonderful colleagues whom I hope to see again in the near future! 
 
