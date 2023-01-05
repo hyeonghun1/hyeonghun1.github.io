@@ -15,10 +15,11 @@ header:
 About Me
 ======
 
-I am a first year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
+I am a second year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
 I am interested in studying geometric mechanics, and in particular the port-Hamiltonian framework. 
 I believe that these research areas can give insight into how to perform engineering tasks such as simulation, analysis, and control more effectively. 
-In particular, I am interested in developing model reduction methods that can be used for nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering. 
+In particular, I am interested in developing model reduction methods that can be used for nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering.
+I am currently working on numerical methods for nonlinear balanced truncation. 
 
 My background is in Engineering Mechanics, which I studied during my BS and MS degrees at [Virginia Tech](https://beam.vt.edu/graduate/mechanics.html). 
 During this time, I was exposed to a variety of problems, ranging from curiosity-driven science to aerospace-application driven problems, such as through my design teams and my internship at Pratt and Whitney. 
@@ -29,6 +30,9 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
+**January 2023:** Happy New Year! This year I'm excited to be attending the Nonlinear Model Reduction for Control at Virginia Tech May 22-26th, and I also hope to attend SIAM Conference on Control in Philadelphia. 
+
+
 **June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE). Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/) and my committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Jorge Cortes](http://terrano.ucsd.edu/jorge/). In the coming weeks, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
 
 **March 2022:** I just returned from attending the [2022 Spring School on Theory and Applications of Port-Hamiltonian Systems](https://www.epc.ed.tum.de/rt/phs2022/) at the beautiful island of Fraueninsel (Chiemsee), Germany. It was a wonderful opportunity to learn about port-Hamiltonian systems, and I met a lot of wonderful colleagues whom I hope to see again in the near future! 
