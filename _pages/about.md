@@ -15,7 +15,7 @@ header:
 About Me
 ======
 
-I am a second year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
+I am a third year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
 I am interested in studying geometric mechanics, and in particular the port-Hamiltonian framework. 
 I believe that these research areas can give insight into how to perform engineering tasks such as simulation, analysis, and control more effectively. 
 In particular, I am interested in developing model reduction methods that can be used for nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering.
@@ -30,8 +30,13 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
-**January 2023:** Happy New Year! This year I'm excited to be attending the [Nonlinear Model Reduction for Control workshop](https://personal.math.vt.edu/jborggaa/nlromc/index.html) at Virginia Tech May 22-26th, and I also hope to attend the [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct23) in Philadelphia in July. 
+**August 2023:** I am planning to attend [ACC 2024](https://acc2024.a2c2.org/) in Toronto next year to present more of my work on computations for nonlinear balancing; I will present a generalization of my work to compute energy function approximations for systems with polynomial drift dynamics. I will also be visiting Blacksburg again in December 2023!
 
+**July 2023:** I presented my work on computations for nonlinear balancing for polynomial input systems at the [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct23) in Philadelphia. 
+
+**May 2023:** Had a great time at the [Nonlinear Model Reduction for Control workshop](https://personal.math.vt.edu/jborggaa/nlromc/index.html) at Virginia Tech presenting my work on computations for nonlinear balancing for polynomial input systems. It was great to have our community together in Blacksburg!
+
+**January 2023:** Happy New Year! This year I'm excited to be attending the [Nonlinear Model Reduction for Control workshop](https://personal.math.vt.edu/jborggaa/nlromc/index.html) at Virginia Tech May 22-26th, and I also hope to attend the [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct23) in Philadelphia in July. 
 
 **June 2022:** I survived the first year of my PhD program! I took some wonderful control theory classes which UCSD's mechanical engineering department has to offer, along with some really stimulating math classes the department offers such as real and functional analysis. I also passed my Department Qualifying Exam (DQE). Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/) and my committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Jorge Cortes](http://terrano.ucsd.edu/jorge/). In the coming weeks, I will be taking a small vacation to Italy to visit family and recover from a challenging year of courses.
 
