@@ -39,8 +39,10 @@ News
 <div style="display: flex;">
     <img src="/images/Millie-1.JPG" alt="Millie 1" style="width: 25%; margin-right: 5px;">
     <img src="/images/Millie-2.JPG" alt="Millie 2" style="width: 25%; margin-right: 5px;">
-    <img src="/images/Millie-3.JPG" alt="Millie 3" style="width: 25%; margin-right: 5px;">
-    <img src="/images/Millie-4.jpg" alt="Millie 4" style="width: 25%;">
+    <div style="display: flex; flex-direction: column;">
+        <img src="/images/Millie-3.JPG" alt="Millie 3" style="width: 100%; margin-bottom: 5px;">
+        <img src="/images/Millie-4.jpg" alt="Millie 4" style="width: 100%;">
+    </div>
 </div>
 
 **August 2023:** I am planning to attend [ACC 2024](https://acc2024.a2c2.org/) in Toronto next year to present more of my work on computations for nonlinear balancing; I will present a generalization of my work to compute energy function approximations for systems with polynomial drift dynamics. I will also be visiting Blacksburg again in December 2023!
