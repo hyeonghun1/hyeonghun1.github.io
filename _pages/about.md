@@ -37,11 +37,10 @@ News
 
 **October 2023:** Happy first birthday to my wonderful crazy little dog. 
 <div style="display: flex;">
-    <img src="/images/Millie-1.JPG" alt="Millie 1" style="width: 25%; margin-right: 5px;">
-    <img src="/images/Millie-2.JPG" alt="Millie 2" style="width: 25%; margin-right: 5px;">
+    <img src="/images/Millie-1-crop.JPG" alt="Millie 1" style="width: 50%; margin-right: 5px;">
     <div style="display: flex; flex-direction: column;">
-        <img src="/images/Millie-3.JPG" alt="Millie 3" style="width: 100%; margin-bottom: 5px;">
-        <img src="/images/Millie-4.jpg" alt="Millie 4" style="width: 100%;">
+        <img src="/images/Millie-4.JPG" alt="Millie 3" style="width: 100%; margin-bottom: 5px;">
+        <img src="/images/Millie-3.jpg" alt="Millie 4" style="width: 100%;">
     </div>
 </div>
 
