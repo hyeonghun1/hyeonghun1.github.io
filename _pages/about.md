@@ -34,6 +34,15 @@ News
 
 **February 2024:** My advisor Prof. Boris Kramer is organizing this year's [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org//) conference here in San Diego this September 9-13, 2024. I just submitted an abstract, and I look forward to having our wonderful research community here to visit later this year to share all of the exciting research developments! 
 
+
+**October 2023:** Happy first birthday to my wonderful crazy little dog. 
+<div style="display: flex;">
+    <img src="/images/Millie-1.JPG" alt="Millie 1" style="width: 25%; margin-right: 5px;">
+    <img src="/images/Millie-2.JPG" alt="Millie 2" style="width: 25%; margin-right: 5px;">
+    <img src="/images/Millie-3.JPG" alt="Millie 3" style="width: 25%; margin-right: 5px;">
+    <img src="/images/Millie-4.jpg" alt="Millie 4" style="width: 25%;">
+</div>
+
 **August 2023:** I am planning to attend [ACC 2024](https://acc2024.a2c2.org/) in Toronto next year to present more of my work on computations for nonlinear balancing; I will present a generalization of my work to compute energy function approximations for systems with polynomial drift dynamics. I will also be visiting Blacksburg again in December 2023!
 
 **July 2023:** I presented my work on computations for nonlinear balancing for polynomial input systems at the [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct23) in Philadelphia. 
