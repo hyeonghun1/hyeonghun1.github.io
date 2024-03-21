@@ -19,7 +19,7 @@ I am a third year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) 
 I am interested in studying geometric mechanics, and in particular the port-Hamiltonian framework. 
 I believe that these research areas can give insight into how to perform engineering tasks such as simulation, analysis, and control more effectively. 
 In particular, I am interested in developing model reduction methods that can be used for nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering.
-I am currently working on numerical methods for nonlinear balanced truncation. 
+My current work on Kronecker product-based numerical methods for nonlinear balancing and nonlinear optimal control for high-dimensional systems can be found here on my GitHub!
 
 My background is in Engineering Mechanics, which I studied during my BS and MS degrees at [Virginia Tech](https://beam.vt.edu/graduate/mechanics.html). 
 During this time, I was exposed to a variety of problems, ranging from curiosity-driven science to aerospace-application driven problems, such as through my design teams and my internship at Pratt and Whitney. 
@@ -30,6 +30,10 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
+**March 2024:** Our paper titled "Scalable Computation of H-Infinity Energy Functions for Polynomial Drift Nonlinear Systems" was accepted for [ACC 2024](https://acc2024.a2c2.org/). I am excited to visit Toronto and present this work in July! I also just submitted a paper titled "Computing Solutions to the Polynomial-Polynomial-Regulator Problem" to [CDC 2024](https://cdc2024.ieeecss.org/); this represents an exciting connection between our model reduction work and a more general optimal control problem. I hope to present this in Milan in December!
+
+**February 2024:** My advisor Prof. Boris Kramer is organizing this year's [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org//) conference here in San Diego this September 9-13, 2024. I just submitted an abstract, and I look forward to having our wonderful research community here to visit later this year to share all of the exciting research developments! 
+
 **August 2023:** I am planning to attend [ACC 2024](https://acc2024.a2c2.org/) in Toronto next year to present more of my work on computations for nonlinear balancing; I will present a generalization of my work to compute energy function approximations for systems with polynomial drift dynamics. I will also be visiting Blacksburg again in December 2023!
 
 **July 2023:** I presented my work on computations for nonlinear balancing for polynomial input systems at the [SIAM Conference on Control and Its Applications](https://www.siam.org/conferences/cm/conference/ct23) in Philadelphia. 
