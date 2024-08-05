@@ -15,21 +15,28 @@ header:
 About Me
 ======
 
-I am a third year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
-I am interested in studying geometric mechanics, and in particular the port-Hamiltonian framework. 
-I believe that these research areas can give insight into how to perform engineering tasks such as simulation, analysis, and control more effectively. 
-In particular, I am interested in developing model reduction methods that can be used for nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering.
+I am a fourth year [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) PhD student at UC San Diego, working under [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). 
+I have been working on efficient, scalable numerical methods for implementing nonlinear balanced truncation model reduction. 
+Through that, my research broadened to the more general problem of scalable numerical methods for solving Hamilton-Jacobi-Bellman Partial Differential Equations, which naturally arise in nonlinear control theory. 
+The success of linear control theory and linear model reduction stems directly from the availability of efficient, easy-to-use solvers; our goal is to develop these types of tools for nonlinear systems, since nonlinear, high-dimensional dynamical systems which are ubiquitous throughout science and engineering.
 My current work on Kronecker product-based numerical methods for nonlinear balancing and nonlinear optimal control for high-dimensional systems can be found here on my GitHub!
 
 My background is in Engineering Mechanics, which I studied during my BS and MS degrees at [Virginia Tech](https://beam.vt.edu/graduate/mechanics.html). 
 During this time, I was exposed to a variety of problems, ranging from curiosity-driven science to aerospace-application driven problems, such as through my design teams and my internship at Pratt and Whitney. 
 Furthermore, my master's work focused on vibration testing, specifically for railroad applications. 
-Through all of these experiences, I was exposed to the need for general methods for efficiently simulating and analyzing complex engineering systems with features such as nonlinearity, complex geometry, and so-called "multi-physics" such as fluid-structure interactions (though ultimately there is only one "physics"). 
+Through all of these experiences, I was exposed to the need for general methods for efficiently simulating and analyzing complex engineering systems with features such as nonlinearity and complex geometry. 
 This has motivated me to shift slightly towards the applied mathematics side of engineering to study model reduction methods during my PhD, which brought me to UCSD to work with Prof. Boris Kramer.
 
 
 News
 ======
+**August 2024:** Our paper titled "Computing Solutions to the Polynomial-Polynomial-Regulator Problem" was accepted to [CDC 2024](https://cdc2024.ieeecss.org/). 
+I am excited to visit Milan in December 2024 and look forward to presenting this recent work. 
+
+**July 2024:** I presented my work on computations for nonlinear balancing for polynomial drift systems at [ACC 2024](https://acc2024.a2c2.org/) in Toronto.
+This work, along with the work I presented at [SIAM CT](https://www.siam.org/conferences/cm/conference/ct23) last summer, allows us to compute nonlinear balancing energy functions for general control-affine nonlinear systems of arbitrary polynomial degree. 
+All of this work will be published in an upcoming journal paper that is currently in the review stages.
+
 **March 2024:** Our paper titled "Scalable Computation of H-Infinity Energy Functions for Polynomial Drift Nonlinear Systems" was accepted for [ACC 2024](https://acc2024.a2c2.org/). I am excited to visit Toronto and present this work in July! I also just submitted a paper titled "Computing Solutions to the Polynomial-Polynomial-Regulator Problem" to [CDC 2024](https://cdc2024.ieeecss.org/); this represents an exciting connection between our model reduction work and a more general optimal control problem. I hope to present this in Milan in December!
 
 **February 2024:** My advisor Prof. Boris Kramer is organizing this year's [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org//) conference here in San Diego this September 9-13, 2024. I just submitted an abstract, and I look forward to having our wonderful research community here to visit later this year to share all of the exciting research developments! 
