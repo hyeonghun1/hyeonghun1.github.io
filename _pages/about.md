@@ -30,14 +30,26 @@ This has motivated me to shift slightly towards the applied mathematics side of 
 
 News
 ======
-**August 2024:** Our paper titled "Computing Solutions to the Polynomial-Polynomial-Regulator Problem" was accepted to [CDC 2024](https://cdc2024.ieeecss.org/). 
+**October 2024:** Happy <i> second </i> birthday to little Millie! Photo credit to Bryn Nilsen.
+<div style="display: flex; justify-content: center;">
+    <img src="/images/Millie-5.jpg" alt="Millie 5" style="width: 50%; margin: auto;">
+</div>
+
+
+**September 2024:** We recently started work on a new multi-university research initiative (MURI) on the[ mathematics for digital twins](https://ai-dt.su.domains/). We are interested in using model reduction techniques for nonlinear control, with particular interest in laser powder bed fusion (PBF). This advanced 3D printing, also known as additive manufacturing, technique enables developing very complex part geometries, but many open problems exist regarding the optimization of control parameters such as the laser power, speed, and the path-planning corresponding to the slicing process. In particular, sub-optimal slicing and parameters can cause significant warping and even cracking of printed parts. We hope to advance the use of model reduction to tackle some of these challenges while advancing the broader approach of pairing real-world measurements with computer models, an idea known as digital twins. 
+
+**September 2024:** We had a wonderful time hosting this year's [MORe2024](https://more2024.sciencesconf.org) here in beautiful La Jolla at the Scripps seaside conference venue. 
+I presented the most recent state-of-the-art in computational methods for Nonlinear Balanced Truncation, based on our [IEEE Transactions paper on computing energy functions](https://doi.org/10.1109/TAC.2024.3494472) and [our recently submitted paper on computing balancing transformations](https://arxiv.org/abs/2410.22435). 
+We always welcome visitors to San Diego and appreciate everyone who took the time to come and discuss/present their research.
+
+**August 2024:** Our paper titled "Computing Solutions to the Polynomial-Polynomial Regulator Problem" was accepted to [CDC 2024](https://cdc2024.ieeecss.org/). 
 I am excited to visit Milan in December 2024 and look forward to presenting this recent work. 
 
 **July 2024:** I presented my work on computations for nonlinear balancing for polynomial drift systems at [ACC 2024](https://acc2024.a2c2.org/) in Toronto.
 This work, along with the work I presented at [SIAM CT](https://www.siam.org/conferences/cm/conference/ct23) last summer, allows us to compute nonlinear balancing energy functions for general control-affine nonlinear systems of arbitrary polynomial degree. 
 All of this work will be published in an upcoming journal paper that is currently in the review stages.
 
-**March 2024:** Our paper titled "Scalable Computation of H-Infinity Energy Functions for Polynomial Drift Nonlinear Systems" was accepted for [ACC 2024](https://acc2024.a2c2.org/). I am excited to visit Toronto and present this work in July! I also just submitted a paper titled "Computing Solutions to the Polynomial-Polynomial-Regulator Problem" to [CDC 2024](https://cdc2024.ieeecss.org/); this represents an exciting connection between our model reduction work and a more general optimal control problem. I hope to present this in Milan in December!
+**March 2024:** Our paper titled "Scalable Computation of H-Infinity Energy Functions for Polynomial Drift Nonlinear Systems" was accepted for [ACC 2024](https://acc2024.a2c2.org/). I am excited to visit Toronto and present this work in July! I also just submitted a paper titled "Computing Solutions to the Polynomial-Polynomial Regulator Problem" to [CDC 2024](https://cdc2024.ieeecss.org/); this represents an exciting connection between our model reduction work and a more general optimal control problem. I hope to present this in Milan in December!
 
 **February 2024:** My advisor Prof. Boris Kramer is organizing this year's [Model Reduction and Surrogate Modeling (MORe)](https://more2024.sciencesconf.org//) conference here in San Diego this September 9-13, 2024. I just submitted an abstract, and I look forward to having our wonderful research community here to visit later this year to share all of the exciting research developments! 
 
