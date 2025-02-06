@@ -86,7 +86,7 @@ author:
   location         : "University of California San Diego"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=S_1__BUAAAAJ&hl=en&authuser=2"
+  googlescholar    : #"https://scholar.google.com/citations?user=S_1__BUAAAAJ&hl=en&authuser=2"
   email            : "hyk049@uscd.edu"
   researchgate     : 
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hyeonghun-kim-350609247/"
+  linkedin         : "https://www.linkedin.com/in/hyeonghun-kim-350609247"
   orcid            : 
   pinterest        :
   soundcloud       :
