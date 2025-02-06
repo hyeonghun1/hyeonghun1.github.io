@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nick's Webpage"
+title                    : "Hyeonghun's Webpage"
 title_separator          : "-"
-name                     : &name "Nick Corbin"
+name                     : &name "Hyeonghun Kim"
 description              : &description "personal description"
 url                      : https://hyeonghun1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyeonghun1/hyeonghun1.github.io"
-teaser                   :  "C7917-1_37.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  #"C7917-1_37.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Nicholas Corbin"
+  name             : "Hyeonghun Kim"
   avatar           : "profile.JPG"
   bio              : "Ph.D. Student in Mechanical and Aerospace Engineering"
   location         : "University of California San Diego"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=S_1__BUAAAAJ&hl=en&authuser=2"
-  email            : "ncorbin@uscd.edu"
-  researchgate     :  "https://www.researchgate.net/profile/Nicholas-Corbin"
+  email            : "hyk049@uscd.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,11 +102,11 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nick-corbin/"
-  orcid            : "https://orcid.org/0000-0002-0621-112X"
+  linkedin         : "https://www.linkedin.com/in/hyeonghun-kim-350609247/"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
