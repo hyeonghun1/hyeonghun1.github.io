@@ -10,7 +10,7 @@ header:
   teaser: "unsplash-gallery-image-2-th.jpg"
 ---
 
-# ![](/images/giesel.jpg)
+![]()
 
 About Me
 ======
