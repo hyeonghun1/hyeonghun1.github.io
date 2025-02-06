@@ -1,11 +1,11 @@
 ---
-title: "Dynamics Graduate Teaching Assistant"
+title: "Signals and Systems"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-summer-dynamics-1
-venue: "Virginia Tech, Biomedical Engineering and Mechanics"
-date: 2019-06-01
-location: "Blacksburg, Virginia"
+permalink: /teaching/2025-Winter
+venue: "UC San Diego, Mechanical and Aerospace Engineering"
+date: 2025-02-05
+location: "La Jolla, California"
 ---
 
-ESM 2304, Dynamics 1 teaching assistant. 
+MAE 143A, Signals and Systems teaching assistant. 
