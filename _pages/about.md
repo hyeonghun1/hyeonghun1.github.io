@@ -21,7 +21,7 @@ I am a third year PhD student in [Mechanical and Aerospace Engineering](https://
 
 News
 ======
-**February 7th, 2025:** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv.
+**February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv.
 
 **September 20th, 2024** I had the pleasure of visiting [Prof. Dongjin Lee](https://redlab.hanyang.ac.kr/) at Hanyang University, South Korea, a former postdoctoral researcher from our group. I am very grateful for the chance to give a talk on Operator Inference---a data-driven reduced-order modeling approach---for a char combustion problem, hosted by his group.
 
@@ -29,8 +29,8 @@ News
 
 **April, 27th, 2024** It was great to attend the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) 2024, hosted by my university. 
 
-**December 21st, 2023:** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/).
+**December 21st, 2023** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/).
 
-**July 24th-August 4th, 2023:** I attended the Space Weather Summer School 2023 at the University of Michigan, Ann Arbor. 
+**July 24th-August 4th, 2023** I attended the Space Weather Summer School 2023 at the University of Michigan, Ann Arbor. 
 
-**September, 2022:** I moved to San Diego, CA from Seoul, South Korea to pursue a PhD in Mechanical and Aerospace Engineering at UC San Diego!
+**September, 2022** I moved to San Diego, CA from Seoul, South Korea to pursue a PhD in Mechanical and Aerospace Engineering at UC San Diego!
