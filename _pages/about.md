@@ -31,4 +31,4 @@ News
 
 **July 24th-August 4th, 2023:** I attended the Space Weather Summer School 2023 at the University of Michigan, Ann Arbor. 
 
-**September, 2022:** I moved to San Diego, CA from Seoul, South Korea, to pursue a PhD in Mechanical and Aerospace Engineering at UC San Diego!
+**September, 2022:** I moved to San Diego, CA from Seoul, South Korea to pursue a PhD in Mechanical and Aerospace Engineering at UC San Diego!
