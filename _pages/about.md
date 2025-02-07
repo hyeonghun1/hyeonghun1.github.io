@@ -21,7 +21,7 @@ I am a third year PhD student in [Mechanical and Aerospace Engineering](https://
 
 News
 ======
-**February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv.
+**February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672) (with Boris Kramer) is available online at arXiv.
 
 **September 20th, 2024** I had the pleasure of visiting [Prof. Dongjin Lee](https://redlab.hanyang.ac.kr/) at Hanyang University, South Korea, a former postdoctoral researcher from our group. I am very grateful for the chance to give a talk on Operator Inference---a data-driven reduced-order modeling approach---for a char combustion problem, hosted by his group.
 
