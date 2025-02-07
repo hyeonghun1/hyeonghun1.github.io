@@ -23,6 +23,8 @@ News
 ======
 **February 7th, 2025:** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv. This is my first PhD research project where we enhance the standard Operator Inference---a data-driven reduced-order modeling method---by augmenting state constraints present in the full-order model. We particularly demonstrate the enhancement of stability, accuracy, and physical concsistency for the application to a char combustion problem. 
 
+**September 9th-13th, 2024** I attended the [Model Reduction and Surrogate Modeling (MORe) 2024] (https://more2024.sciencesconf.org/) conference, which was hosted by my university at the beautiful location, the Scripps seaside forum, in La Jolla.
+
 **December 21st, 2023:** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/).
 
 **July 24th-August 4th, 2023:** I attended the Space Weather Summer School 2023 at the University of Michigan, Ann Arbor. 
