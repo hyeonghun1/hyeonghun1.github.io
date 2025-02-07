@@ -23,4 +23,8 @@ News
 ======
 **February 7th, 2025:** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv.
 
-**September, 2022:** I moved to San Diego from Seoul, South Korea, to pursuue a PhD in Mechanicaland Aerospace Engineering at UC San Diego!
+**December 21st, 2023:** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/)
+
+**July 24th-August 4th, 2023:** I attended the Space Weather Summer School 2023 at the University of Michigan, Ann Arbor. 
+
+**September, 2022:** I moved to San Diego from Seoul, South Korea, to pursuue a PhD in Mechanical and Aerospace Engineering at UC San Diego!
