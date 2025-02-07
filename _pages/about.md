@@ -23,9 +23,11 @@ News
 ======
 **February 7th, 2025:** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2410.22291) (with Boris Kramer) is available online at arXiv.
 
-**September 9th-13th, 2024** I attended the [Model Reduction and Surrogate Modeling (MORe) 2024](https://more2024.sciencesconf.org/) conference, which was hosted by my university at the beautiful location, the Scripps seaside forum, in La Jolla.
+**September 20th, 2024** I had the pleasure of visiting [Prof. Dongjin Lee](https://redlab.hanyang.ac.kr/) at Hanyang University, South Korea, a former postdoctoral researcher from our group. I am very grateful for the chance to give a talk on Operator Inference---a data-driven reduced-order modeling approach---for a char combustion problem, hosted by his group.
 
-**April, 27th, 2024** I attended the [Southern California Applied Mathematics Symposium (SOCAMS) 2024](https://www.socams.org/) hosted by my university. 
+**September 9th-13th, 2024** I am grateful for the opportunity to attend the [Model Reduction and Surrogate Modeling (MORe) 2024](https://more2024.sciencesconf.org/) conference, which was hosted by my university at the beautiful location, the Scripps seaside forum, in La Jolla.
+
+**April, 27th, 2024** It was great to attend the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) 2024, hosted by my university. 
 
 **December 21st, 2023:** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/).
 
