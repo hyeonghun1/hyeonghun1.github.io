@@ -27,7 +27,7 @@ News
 
 **September 9th-13th, 2024** I am grateful for the opportunity to attend the [Model Reduction and Surrogate Modeling (MORe) 2024](https://more2024.sciencesconf.org/) conference, which was hosted by my university at the beautiful location, the Scripps seaside forum, in La Jolla.
 
-**April, 27th, 2024** It was great to attend the [Southern California Applied Mathematics Symposium (SOCAMS)](https://www.socams.org/) 2024, hosted by my university. 
+**April, 27th, 2024** It was great to attend the [Southern California Applied Mathematics Symposium (SOCAMS) 2024](https://2024.socams.org/), hosted by my university. 
 
 **December 21st, 2023** I passed my Departmental Qualifying Exam (DQE) in linear systems theory, numerical linear algebra, and computational fluid dynamics. Many thanks to my advisor [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html), and committee members [Prof. Patricia Hidalgo-Gonzalez](https://patyhidalgo.github.io/) and [Prof. Oliver Schmidt](https://flowphysics.ucsd.edu/).
 
