@@ -1,0 +1,15 @@
+---
+title: "Physically consistent predictive reduced-order modeling by enhancing Operator Inference with state constraints"
+collection: publications
+permalink: /publication/2024-12-17-CDC2024
+excerpt: 'Numerical simulations of complex multiphysics systems, such as char combustion considered herein, yield numerous state variables that inherently exhibit physical constraints. This paper presents a new approach to augment Operator Inference -- a methodology within scientific machine learning that enables learning from data a low-dimensional representation of a high-dimensional system governed by nonlinear partial differential equations -- by embedding such state constraints in the reduced-order model predictions. In the model learning process, we propose a new way to choose regularization hyperparameters based on a key performance indicator. Since embedding state constraints improves the stability of the Operator Inference reduced-order model, we compare the proposed state constraints-embedded Operator Inference with the standard Operator Inference and other stability-enhancing approaches. For an application to char combustion, we demonstrate that the proposed approach yields state predictions superior to the other methods regarding stability and accuracy. It extrapolates over 200\% past the training regime while being computationally efficient and physically consistent.'
+# date: 2024-7-11
+# venue: '2024 Conference on Decision and Control (CDC)'
+paperurl: 'https://arxiv.org/abs/2502.03672'
+# citation: 'N. A. Corbin and B. Kramer, “Computing Solutions to the Polynomial-Polynomial Regulator Problem,” in <i>2024 Conference on Decision and Control (CDC)</i>, Dec. 2024.'
+---
+Numerical simulations of complex multiphysics systems, such as char combustion considered herein, yield numerous state variables that inherently exhibit physical constraints. This paper presents a new approach to augment Operator Inference -- a methodology within scientific machine learning that enables learning from data a low-dimensional representation of a high-dimensional system governed by nonlinear partial differential equations -- by embedding such state constraints in the reduced-order model predictions. In the model learning process, we propose a new way to choose regularization hyperparameters based on a key performance indicator. Since embedding state constraints improves the stability of the Operator Inference reduced-order model, we compare the proposed state constraints-embedded Operator Inference with the standard Operator Inference and other stability-enhancing approaches. For an application to char combustion, we demonstrate that the proposed approach yields state predictions superior to the other methods regarding stability and accuracy. It extrapolates over 200\% past the training regime while being computationally efficient and physically consistent.
+
+[Download final arXiv version of the paper here](https://arxiv.org/abs/2502.03672)
+
+<!-- Recommended citation: N. A. Corbin and B. Kramer, “Computing Solutions to the Polynomial-Polynomial Regulator Problem,” in <i>2024 Conference on Decision and Control (CDC)</i>, Dec. 2024. -->

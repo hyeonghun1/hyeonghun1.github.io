@@ -10,7 +10,7 @@ author_profile: true
 
 {% include base_path %}
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=S_1__BUAAAAJ&hl=en&authuser=2) and preprints on [arXiv](https://arxiv.org/search/?query=Hyeonghun+Kim&searchtype=all&abstracts=show&order=-announced_date_first&size=50).
+You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=sdR-LZ4AAAAJ&hl=en) and preprints on [arXiv](https://arxiv.org/search/?query=Hyeonghun+Kim&searchtype=all&abstracts=show&order=-announced_date_first&size=50).
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
