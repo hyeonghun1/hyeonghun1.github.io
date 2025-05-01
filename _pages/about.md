@@ -19,8 +19,10 @@ I am a third year PhD student in [Mechanical and Aerospace Engineering](https://
 
 
 
-News
+Recent News
 ======
+**April 26th, 2025** It was a pleasure to give a talk at the [“Southern California Applied Mathematics Symposium 2025”](https://www.socams.org/home), hosted by UC Riverside, on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672).
+
 **April 8th, 2025** Our preprint [“Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing”](https://arxiv.org/abs/2504.03990) (with Seunghyon Kang, Boris Kramer) is available online at arXiv.
 
 **February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672) (with Boris Kramer) is available online at arXiv.
