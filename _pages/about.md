@@ -21,7 +21,7 @@ I am a third year PhD student in [Mechanical and Aerospace Engineering](https://
 
 Recent News
 ======
-**June 16th-25th, 2025** I am attending [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon"](https://sites.google.com/view/crg-spd/events/seattle-2025) at the University of Washington, Seattle. I am very excited about this opportunity for me to learn more about many topics on scientific machine learning, such as dynamical low-rank algorithm, operator splitting methods, and neural operators/ODEs and their applications. 
+**June 16th-25th, 2025** I am attending [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon"](https://sites.google.com/view/crg-spd/events/seattle-2025) at the University of Washington, Seattle. I am very excited about this opportunity to learn more about many topics on scientific machine learning, such as dynamical low-rank algorithms, operator splitting methods, and neural operators/ODEs and their applications. 
 
 **April 26th, 2025** It was a pleasure to give a talk at the [“Southern California Applied Mathematics Symposium 2025”](https://www.socams.org/home), hosted by UC Riverside, on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672).
 
