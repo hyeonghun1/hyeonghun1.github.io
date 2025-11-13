@@ -15,7 +15,7 @@ header:
 About Me
 ======
 
-I am a third year PhD student in [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working with [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). My current research focuses on data-driven reduced-order modeling for applications to char combustion and semiconductor. 
+I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working with [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). My current research focus is data-driven reduced-order modeling. I have worked on applications of char combustion and semiconductor manufacturing, and now focusing more on an exciting topic of wave turbulence! 
 
 
 
@@ -25,7 +25,7 @@ Recent News
 
 **September, 2025** I recently completed a summer internship in the Computational Fluid Dynamics group at [ASML San Diego](https://www.asml.com/en/company/about-asml/locations/san-diego), where I worked on developing reduced-order modeling algorithms for the EUV light source. It was a fantastic experience to contribute to cutting-edge technology at one of the world's leading semiconductor companies and to apply research skills I learned during my PhD.
 
-**July 21th-24th, 2025** I'm grateful to have attended a fantastic conference [USNCCM](https://usnccm18.usacm.org/) in a beautiful city of Chicago! I gave a talk about my work on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672). It was amazing to see all the cool works and make some friends in the field!
+**July 21th-24th, 2025** I'm grateful to have attended the [USNCCM conference](https://usnccm18.usacm.org/) in the beautiful city of Chicago, where I gave a talk on my work [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672). It was inspring to see so many exciting works and to meet new friends in the community.
 
 **June 16th-25th, 2025** I am attending [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon](https://sites.google.com/view/crg-spd/events/seattle-2025) at the University of Washington, Seattle. I am very excited about this opportunity to learn more about many topics on scientific machine learning, such as dynamical low-rank algorithms, operator splitting methods, and neural operators/ODEs and their applications. 
 
