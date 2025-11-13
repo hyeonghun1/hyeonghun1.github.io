@@ -21,9 +21,15 @@ I am a third year PhD student in [Mechanical and Aerospace Engineering](https://
 
 Recent News
 ======
-**June 16th-25th, 2025** I am attending [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon"](https://sites.google.com/view/crg-spd/events/seattle-2025) at the University of Washington, Seattle. I am very excited about this opportunity to learn more about many topics on scientific machine learning, such as dynamical low-rank algorithms, operator splitting methods, and neural operators/ODEs and their applications. 
+**October, 2025** I'm very excited that my first Journal paper is published in JCP ([“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub)). In this work, we embedded physics-preserving constraints to the Operator Inference reduced-order modeling for an application of char combustion, so the model always guarantees to generate physically consistent predictions on species concentration. This helped us to get an additional benefic of long-term stability, compared to other methods introduced in the paper. 
 
-**April 26th, 2025** It was a pleasure to give a talk at the [“Southern California Applied Mathematics Symposium 2025”](https://www.socams.org/home), hosted by UC Riverside, on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672).
+**September, 2025** I recently completed a summer internship in the Computational Fluid Dynamics group at [ASML San Diego](https://www.asml.com/en/company/about-asml/locations/san-diego), where I worked on developing reduced-order modeling algorithms for the EUV light source. It was a fantastic experience to contribute to cutting-edge technology at one of the world's leading semiconductor companies and to apply research skills I learned during my PhD.
+
+**July 21th-24th, 2025** I'm grateful to have attended a fantastic conference [USNCCM](https://usnccm18.usacm.org/) in a beautiful city of Chicago! I gave a talk about my work on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672). It was amazing to see all the cool works and make some friends in the field!
+
+**June 16th-25th, 2025** I am attending [Structure-Preserving Scientific Computing and Machine Learning Summer School and Hackathon](https://sites.google.com/view/crg-spd/events/seattle-2025) at the University of Washington, Seattle. I am very excited about this opportunity to learn more about many topics on scientific machine learning, such as dynamical low-rank algorithms, operator splitting methods, and neural operators/ODEs and their applications. 
+
+**April 26th, 2025** It was a pleasure to give a talk at the [Southern California Applied Mathematics Symposium 2025](https://www.socams.org/home), hosted by UC Riverside, on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672).
 
 **April 8th, 2025** Our preprint [“Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing”](https://arxiv.org/abs/2504.03990) (with Seunghyon Kang, Boris Kramer) is available online at arXiv.
 
