@@ -15,12 +15,16 @@ header:
 About Me
 ======
 
-I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working with [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). My current research focus is data-driven reduced-order modeling. I have worked on applications of char combustion and semiconductor manufacturing, and now focusing more on an exciting topic of wave turbulence! 
+I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https://mae.ucsd.edu/) at UC San Diego, working with [Prof. Boris Kramer](http://kramer.ucsd.edu/index.html). My current research focus is data-driven reduced-order modeling. I have worked on applications of char combustion and semiconductor manufacturing, and now focusing more on an exciting topic of capillary wave turbulence! 
 
 
 
 Recent News
 ======
+**May, 2026** I'm looking forward to presenting our work [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub) at the [WCCM-ECCOMAS 2026 conference](https://wccm-eccomas2026.org/) in Munich! It will be nice to see many exciting works and meet new colleagues in the community.
+
+**May, 2026** I'm excited to share that our paper, ([“Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing”](https://arxiv.org/abs/2504.03990)), has been accepted to IEEE Transactions on Semiconductor Manufacturing! In this work, we apply parametric Operator Inference, a data-driven reduced-order modeling framework, to simulate the purging process in semiconductor manufacturing. This approach allows for fast and accurate predictions of the purging flow dynamics inside the PECVD chamber, with potential applications in particle contamination control in process optimization in the semiconductor manufacturing setting. The final published version will be available soon.
+
 **October, 2025** I'm very excited that my first Journal paper is published in JCP ([“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub)). In this work, we embedded physics-preserving constraints to the Operator Inference reduced-order modeling for an application of char combustion, so the model always guarantees to generate physically consistent predictions on species concentration. This helped us to get an additional benefic of long-term stability, compared to other methods introduced in the paper. 
 
 **September, 2025** I recently completed a summer internship in the Computational Fluid Dynamics group at [ASML San Diego](https://www.asml.com/en/company/about-asml/locations/san-diego), where I worked on developing reduced-order modeling algorithms for the EUV light source. It was a fantastic experience to contribute to cutting-edge technology at one of the world's leading semiconductor companies and to apply research skills I learned during my PhD.
