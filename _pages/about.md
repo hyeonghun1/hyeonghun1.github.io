@@ -35,9 +35,9 @@ Recent News
 
 **April 26th, 2025** It was a pleasure to give a talk at the [Southern California Applied Mathematics Symposium 2025](https://www.socams.org/home), hosted by UC Riverside, on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672).
 
-**April 8th, 2025** Our preprint [“Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing”](https://arxiv.org/abs/2504.03990) (with Seunghyon Kang, Boris Kramer) is available online at arXiv.
+**April 8th, 2025** Our preprint [“Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing”](https://arxiv.org/abs/2504.03990) (with Seunghyon Kang, Boris Kramer) is available online on arXiv.
 
-**February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672) (with Boris Kramer) is available online at arXiv.
+**February 7th, 2025** Our preprint [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://arxiv.org/abs/2502.03672) (with Boris Kramer) is available online on arXiv.
 
 **September 20th, 2024** I had the pleasure of visiting [Prof. Dongjin Lee](https://redlab.hanyang.ac.kr/) at Hanyang University, South Korea, a former postdoctoral researcher from our group. I am very grateful for the chance to give a talk on Operator Inference---a data-driven reduced-order modeling approach---for a char combustion problem, hosted by his group.
 
