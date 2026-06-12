@@ -21,7 +21,7 @@ Journal Articles
 ======
 **Kim, H.** and Kramer, B. (2025). Physically consistent predictive reduced-order modeling by enhancing Operator Inference with state constraints. _Journal of Computational Physics, 543_, 114418. DOI: 10.1016/j.jcp.2025.114418.
 
-Kang, S., **Kim, H.**, and Kramer, B. (2026). _Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing_. Early Access. DOI: 10.1109/TSM.2026.3694257.
+Kang, S., **Kim, H.**, and Kramer, B. (2026). Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing. _IEEE Transactions on Semiconductor Manufacturing_, Early Access. DOI: 10.1109/TSM.2026.3694257.
 
 
 <!-- Preprints -->
