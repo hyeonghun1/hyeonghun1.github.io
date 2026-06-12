@@ -21,7 +21,7 @@ I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https:/
 
 Recent News
 ======
-**June, 2026** I attended the ["2026 URSSI summer school"](https://github.com/si2-urssi/summerschool-June2026) on research software engineering in Boston. I'm very grateful that I learned good software development practices, including software design, modularity, collaboration via GitHub, software testing, packaging/distributing Python software, etc. This valuable experience will help me carry there software development skills forward in my future career, allowing me to write more reliable, maintainable, and collaborative software as a researcher and a developer. 
+**June, 2026** I attended the ["2026 URSSI summer school"](https://github.com/si2-urssi/summerschool-June2026) on research software engineering in Boston. I'm very grateful that I learned all the good software development practices, including software design, modularity, collaboration via GitHub, software testing, packaging/distributing Python software, etc. This valuable experience will help me carry these software development skills forward in my future career, allowing me to write more reliable, maintainable, and collaborative software as a researcher and a developer. 
 
 **May, 2026** I'm looking forward to presenting our work [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub) at the [WCCM-ECCOMAS 2026 conference](https://wccm-eccomas2026.org/) in Munich! 
 Please feel free to attend my talk in the session "MS016B: Scientific Machine Learning for Nonlinear Model Reduction II" on July 23rd, from 09:45--11:15am in Room H4--2 (Leopold).
