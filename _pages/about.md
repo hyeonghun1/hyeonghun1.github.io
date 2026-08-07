@@ -21,7 +21,7 @@ I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https:/
 
 Recent News
 ======
-**August, 2026** My second journal paper ["Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing"](https://doi.org/10.1109/TSM.2026.3694257) has now officially published in _IEEE Transactions on Semiconductor Manufacturing_! 
+**August, 2026** I’m excited to share that my second journal paper, co-authered with Dr. Seunghyon Kang from Samsung Electronics Co., Ltd and my advisor Prof. Boris Kramer, ["Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing"](https://doi.org/10.1109/TSM.2026.3694257) has now been officially published in _IEEE Transactions on Semiconductor Manufacturing_! 
 
 **July, 2026** It was pleasure to give at the [WCCM-ECCOMAS 2026 conference](https://wccm-eccomas2026.org/) on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub), in a beautiful city of Munich! It was a great opportunity to learn about exciting work in scientific machine learning, digital twins, reduced-order modeling, and uncertainty quantification, with a wide variety of applications of biology, fluid mechanics, material science, and many other fields. It was also nice to see many people in the field, especially great to finally meet in person and connect with researchers whose work I had previously known only through their papers!
 
