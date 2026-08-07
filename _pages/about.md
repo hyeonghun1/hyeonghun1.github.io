@@ -21,6 +21,10 @@ I am a fourth year PhD student in [Mechanical and Aerospace Engineering](https:/
 
 Recent News
 ======
+**August, 2026** My second journal paper ["Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing"](https://doi.org/10.1109/TSM.2026.3694257) has now officially published in _IEEE Transactions on Semiconductor Manufacturing_! 
+
+**July, 2026** It was pleasure to give at the [WCCM-ECCOMAS 2026 conference](https://wccm-eccomas2026.org/) on [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub), in a beautiful city of Munich! It was a great opportunity to learn about exciting work in scientific machine learning, digital twins, reduced-order modeling, and uncertainty quantification, with a wide variety of applications of biology, fluid mechanics, material science, and many other fields. It was also nice to see many people in the field, especially great to finally meet in person and connect with researchers whose work I had previously known only through their papers!
+
 **June, 2026** I attended the ["2026 URSSI summer school"](https://github.com/si2-urssi/summerschool-June2026) on research software engineering in Boston. I'm very grateful that I learned all the good software development practices, including software design, modularity, collaboration via GitHub, software testing, packaging/distributing Python software, etc. This valuable experience will help me carry these skills forward in my future career, allowing me to write more reliable, maintainable, and collaborative software as a researcher and a developer. 
 
 **May, 2026** I'm looking forward to presenting our work [“Physically consistent reduced-order modeling by enhancing Operator Inference with state constraints”](https://www.sciencedirect.com/science/article/pii/S0021999125007004?via%3Dihub) at the [WCCM-ECCOMAS 2026 conference](https://wccm-eccomas2026.org/) in Munich! 
