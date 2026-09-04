@@ -24,7 +24,7 @@ Journal Articles
 Kang, S., **Kim, H.**, and Kramer, B. (2026). Parametric Operator Inference to Simulate the Purging Process in Semiconductor Manufacturing. _IEEE Transactions on Semiconductor Manufacturing_, 39(3):625–635, DOI: [10.1109/TSM.2026.3694257](https://doi.org/10.1109/TSM.2026.3694257).
 
 
-Preprints -->
+Preprints
 ======
 **Kim, H.**, Zhang, L., Friend, J., Kramer, B. (2026). Stochastic Operator Inference for reduced-order modeling of capillary wave turbulence using experimental measurements. _arXiv:2609.04008_. [DOI](
 https://doi.org/10.48550/arXiv.2609.04008).
